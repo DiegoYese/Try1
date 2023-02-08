@@ -1,2 +1,2 @@
-# Try1
-Fisrt attemp to evolve in this github thing 
+# Hello fellas
+This is my firts repository
